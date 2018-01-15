@@ -1,3 +1,3 @@
 # CoreDataToDo
 
-To-Do app con CoreDate y sin el uso del storyboard
+To-Do app con CoreData y sin el uso del storyboard
